@@ -45,6 +45,7 @@ Oversee project integration and ensure all features work together smoothly.
 Prepare the final presentation and submit Phase I.
 Ensure clear and concise documentation for the project (README.md).
 Main Roles and Tasks:
+
 Aleksandra Myslimi - Backend Developer (User Authentication & Data Handling)
 
 Develop the user registration and login system.
